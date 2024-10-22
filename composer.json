@@ -1,0 +1,11 @@
+{
+    "name": "james-buzz/laravel-uppy-companion",
+    "description": "A package to emulate Uppy companion in Laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "JamesBuzz\\LaravelUppyCompanion\\": "src/"
+        }
+    },
+    "require": {}
+}
